@@ -9,8 +9,6 @@
 ==============================================================================
 www.linkedin.com/in/kim-lima-0800461a1/
 
-www.twitter.com/MikimLiminha
-
 https://www.instagram.com/kimlimadlima/
 
 **Tecnologias:**
