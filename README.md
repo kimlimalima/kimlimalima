@@ -1,5 +1,5 @@
 
-**Graduando em Sistemas de Informação - UFPA (Universidade Federal do Pará)**
+**Graduando em Sistemas de Informação - UFPA**
 ==============================================================================
 **Contato:**
 ==============================================================================
