@@ -1,7 +1,6 @@
 ## Prazer, meu nome é Kim !!! 🖖
 ## Sobre mim
 ### Graduando em Sistemas de Informação - UFPA (Universidade Federal do Pará)
-### 🛑 Perfil andamento... O crescimento não há de cessar !!! 🛑
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kim-lima-0800461a1/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kimlimadlima/)
@@ -17,3 +16,4 @@
     <img align="center" alt="python" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
 </div>
 
+### 🛑 Perfil andamento... O crescimento não há de cessar !!! 🛑
