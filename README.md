@@ -1,6 +1,6 @@
 ## Prazer, meu nome é Kim !!! 🖖
 ## Sobre mim
-### Graduando em Sistemas de Informão - UFPA (Universidade Federal do Pará)
+### Graduando em Sistemas de Informação - UFPA (Universidade Federal do Pará)
 ### 🛑 Perfil andamento... O crescimento não há de cessar !!! 🛑
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kim-lima-0800461a1/)
