@@ -1,16 +1,19 @@
+## Prazer, meu nome é Kim !!! 🖖
+## Sobre mim
+### Graduando em Sistemas de Informão - UFPA (Universidade Federal do Pará)
+### 🛑 Perfil andamento... O crescimento não há de cessar !!! 🛑
 
-**Graduando em Sistemas de Informação - UFPA**
-==============================================================================
-**Contato:**
-==============================================================================
-* +55 (91) 99148-4458
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kim-lima-0800461a1/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kimlimadlima/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MikimLiminha)
 
-**Redes Sociais:**
-==============================================================================
-* www.linkedin.com/in/kim-lima-0800461a1/
+![Kim Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=KimLimadLima&show_icons=true&theme=dark)
 
-* https://www.instagram.com/kimlimadlima/
 
-**Tecnologias:**
-==============================================================================
-* Python
+## Tecnologias
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+    <img align="center" alt="python" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
+</div>
+
