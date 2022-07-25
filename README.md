@@ -16,4 +16,4 @@
     <img align="center" alt="python" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
 </div>
 
-### 🛑 Perfil andamento... O crescimento não há de cessar !!! 🛑
+### 🛑 Perfil em andamento... O crescimento não há de cessar !!! 🛑
