@@ -7,14 +7,11 @@
 
 ![Kim Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=kimlimalima&show_icons=true&theme=dark)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimlimalima&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Tecnologias
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-    <img align="center" alt="python" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
+    <! --<img align="center" alt="VIM" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
+    <img align="center" alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </div>
-
-## Contato:
-- +55 91 99148-4458
-### 🛑 Perfil em andamento... O crescimento não há de cessar !!! 🛑
