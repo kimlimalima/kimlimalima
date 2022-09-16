@@ -7,7 +7,7 @@
 
 ![Kim Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=kimlimalima&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimlimalima&layout=compact)](https://github.com/kimlimalima/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimlimalima&langs_count=8)](https://github.com/kimlimalima/github-readme-stats)
 
 
 ## Tecnologias
