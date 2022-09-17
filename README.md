@@ -7,6 +7,7 @@
 ![Kim Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=kimlimalima&show_icons=true&theme=dark)
 
 ## Tecnologias
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimlimalima&langs_count=8)](https://github.com/kimlimalima/github-readme-stats)
 
 <div style="display: inline_block"><br/>
     <! --<img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
