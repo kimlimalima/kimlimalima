@@ -3,9 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kim-lima-0800461a1/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kimlimadlima/)
 
-### Graduando em Sistemas de Informação - UFPA (Universidade Federal do Pará)
-![Kim Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=kimlimalima&show_icons=true&theme=dark)
-
 ## Tecnologias
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimlimalima&langs_count=8)](https://github.com/kimlimalima/github-readme-stats)
 
