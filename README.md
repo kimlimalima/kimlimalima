@@ -6,4 +6,4 @@
 
 
 ## Programming Languages
-[![My Skills](https://skills.thijs.gg/icons?i=python,c,cpp,dart)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=python,c,cpp,flutter,dart)](https://skills.thijs.gg)
