@@ -15,7 +15,7 @@
 
 ---
 
-## 🌐 Desenvolvimento Web
+## 🌐 Web Development
 <p align="center">
   <img title="JavaScript" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img title="Java" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -26,7 +26,7 @@
 
 ---
 
-## 📱 Desenvolvimento Mobile
+## 🔗 Multiplatform Development
 <p align="center">
   <img title="Dart" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img title="Flutter" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
@@ -34,7 +34,16 @@
 
 ---
 
-## 🛠️ Programação Geral / Acadêmica
+## 🗄️ Data & Indexing Engines
+<p align="center">
+  <img title="Neo4j" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg">
+  <img title="Elasticsearch" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg">
+  <img title="PostgreSQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img title="SQLite" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
+</p>
+
+---
+## 🛠️ General / Academic Programming
 <p align="center">
   <img title="C" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img title="C++" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
